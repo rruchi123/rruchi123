@@ -48,9 +48,7 @@
 
 ---
 
-## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-raj-774805282/)
 - 🌐 Portfolio:
 
 ---
