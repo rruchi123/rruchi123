@@ -1,9 +1,11 @@
 # Hi there, I'm Ruchi Raj 👋
 
-🎓 **Computer Science Engineering Student**  
-💻 **Full-Stack Developer**  
-🧩 **Problem Solver**  
-🌱 **Passionate about building clean, user-focused solutions**
+## 👋 About Me
+
+🎓 Computer Science Engineering Student | 👩‍💻 Web & Full-Stack Developer  
+💡 Creative Problem Solver | 🛠️ Tech Explorer  
+🌱 Passionate about building clean, intuitive & impactful user-centric web applications
+
 
 ---
 ## 🚀 Tech Stack
