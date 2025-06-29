@@ -7,21 +7,55 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-**Frontend:**  
-&nbsp;&nbsp;• HTML &nbsp;&nbsp;• CSS &nbsp;&nbsp;• Tailwind &nbsp;&nbsp;• JavaScript &nbsp;&nbsp;• React
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-**Backend:**  
-&nbsp;&nbsp;• Node.js &nbsp;&nbsp;• Express.js &nbsp;&nbsp;• MongoDB &nbsp;&nbsp;• Firebase Auth/JWT
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 
-**Programming Languages:**  
-&nbsp;&nbsp;• C++ &nbsp;&nbsp;• Python
+<!-- Backend & Database -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
-**Tools & Platforms:**  
-&nbsp;&nbsp;• Git &nbsp;&nbsp;• GitHub &nbsp;&nbsp;• Vercel &nbsp;&nbsp;• Render &nbsp;&nbsp;• Postman
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40"/>
 
 ---
+
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ruchi-raj&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 GitHub Stats
+
+![Ruchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchi-raj&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchi-raj&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchi-raj&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-raj)
+- 🌐 Portfolio:
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=ruchi-raj&label=Profile%20views&color=blue&style=flat)
 
 
 ## 📫 Connect with Me
