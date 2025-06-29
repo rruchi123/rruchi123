@@ -23,13 +23,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Add links to your top projects here! Example: -->
-- [Project Name](https://github.com/rruchi123/project-repo) – Short description of what it does.
-- [Another Cool Project](https://github.com/rruchi123/another-project) – One-liner about your role or achievement.
-
----
 
 ## 📫 Connect with Me
 
@@ -37,15 +30,4 @@
 
 ---
 
-<!-- Optional: Add fun facts, hobbies, or a favorite quote -->
-<!--
-## 🌟 Fun Facts
 
-- I love solving coding challenges and participating in hackathons.
-- Favorite quote: "Strive for progress, not perfection."
--->
-
-```
-<!--
-**rruchi123/rruchi123** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
