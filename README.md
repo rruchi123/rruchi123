@@ -36,26 +36,26 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ruchi-raj&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rruchi123&theme=gruvbox&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Ruchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruchi-raj&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchi-raj&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruchi-raj&theme=tokyonight&hide_border=true)
+![Ruchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rruchi123&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rruchi123&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rruchi123&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-raj)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruchi-raj-774805282/)
 - 🌐 Portfolio:
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=ruchi-raj&label=Profile%20views&color=blue&style=flat)
+![Visitor Badge](https://komarev.com/ghpvc/?username=rruchi123&label=Profile%20views&color=blue&style=flat)
 
 
 ## 📫 Connect with Me
