@@ -22,15 +22,15 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
-  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" alt="Vercel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Render_logo.svg" width="60" alt="Render"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Render-2C4E80?style=for-the-badge&logo=render&logoColor=white" height="28"/>
 </p>
 
 
